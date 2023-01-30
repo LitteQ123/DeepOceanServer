@@ -1,0 +1,15 @@
+{
+    "change_logs": [""],
+    "patch_hash": "c65f2ec321dbd728b9f66af585b4570fab5d0ee2",
+    "new_folders": [
+        ".minecraft",
+        ".minecraft/morepokemon-pack"
+    ],
+    "new_files": [
+        ".minecraft/morepokemon-pack/经验宝宝.zip|f||9c553cd6fff5cf16700047d04dc86ec592b27d74||80cb41e75b0b42f398c017abadfb16af246b020a|b0|d94f2|12ede4",
+        ".minecraft/servers.dat|f||3ec16fce83526ce38ad910af896754fd013e403a||ef3d2a2e3ba68daccd959f18e2f787772a251733|d963c|2770|32ea"
+    ],
+    "old_files": [],
+    "old_folders": [],
+    "patch_length": 900524
+}
